@@ -76,3 +76,11 @@ Excluded: Microsoft, Google, LinkedIn (current employer group).
 - Elastic
 - Okta
 - Cisco
+
+## Extra (from plugin's built-in product list, 1 Nov)
+- GitLab
+- Coinbase
+- HackerRank
+- Sarvam AI
+- Mindtickle
+- Stripe
