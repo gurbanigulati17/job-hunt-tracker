@@ -84,3 +84,9 @@ Excluded: Microsoft, Google, LinkedIn (current employer group).
 - Sarvam AI
 - Mindtickle
 - Stripe
+- Druva
+- Zscaler
+- Commvault
+- Toast
+- Tekion
+- Hevo Data
